@@ -39,7 +39,7 @@ I don't just write APIs, I engineer them. Here's what I bring to the backend:
 - 🔐 **Auth & security** — JWT, OAuth, rate limiting, input validation
 - 🚄 **Performance** — caching with Redis, query optimization, async patterns
 - 📦 **API design** — RESTful, versioned, documented and developer-friendly
-- 🐳 **DevOps basics** — Dockerized deployments, environment management
+- 🐳 **DevOps** — Dockerized deployments, environment management
 
 ---
 
